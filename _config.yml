@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "DSC00401.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Ian Spehar"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Corvallis, OR"
+  employer         : "Oregon State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ian.spehar01@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
