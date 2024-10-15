@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello internet welcome to your new home"
+title: "Hello internet, welcome home"
 author_profile: true
 redirect_from: 
   - /about/
