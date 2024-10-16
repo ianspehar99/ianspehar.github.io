@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ian, I like soccer and eating. I will fill out the rest of this page later
+My name is Ian, I like soccer and eating. I will fill out the rest of this page later, I am very behind on coding assignments
 
 Achievements
 ======
