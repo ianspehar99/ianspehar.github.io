@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Hi, welcome to my website!"
+title: "Hi, I'm Ian, welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 About Me
 ======
 I graduated from Oregon State University with a B.S. in Mechanical Engineering, and have returned to pursue a Master’s degree in the same field, with a focus on robotics. My passion lies in using technology to make a positive impact on the world, with a particular interest in renewable energy and environmental sustainability. 
