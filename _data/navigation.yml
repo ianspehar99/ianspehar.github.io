@@ -16,6 +16,7 @@ main:
    # url: /teaching/    
     
   - title: "Portfolio"
+    #url: /portfolio/
     url: /files/Portfolio.pdf
         
   #- title: "Blog Posts"
