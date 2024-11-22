@@ -11,15 +11,17 @@ redirect_from:
 About Me
 =====
 ***
-I graduated from Oregon State University with a B.S. in Mechanical Engineering, and have returned to pursue a Master’s degree in the same field, with a focus on robotics. My passion lies in using robot technology to make a positive impact on the world, with a particular interest in renewable energy and environmental sustainability. 
+I am currently pursuing a Master's in Mechanical Engineering at Oregon State University, focusing on robotics. I’m passionate about using robotic technology to solve real-world problems and create a positive impact, especially in renewable energy and environmental sustainability.
 
-For my thesis, I am working under Dr. Richard Wirz, conducting research on manufacturing plasma-resistant materials. This work aims to develop advanced vacuum chamber environments that support testing for fusion power technology, contributing to innovative solutions in sustainable energy.
+For my thests, I’m working with Dr. Richard Wirz on the use of robots in manufacturing plasma-resistant materials for advanced vacuum chambers. This research supports fusion power development, contributing to the future of clean energy.
 
-I mainly specialize in software development for robot intelligence. Check out my portfolio and resume for more details, and please feel free to email me with any questions!
+I have broad set of engineering skills, but I mostly love developing software for robot intelligence, finding creative ways to automate and solve complex challenges. I’m currently looking for a robotics internship for Summer 2025, where I can apply my skills, learn new things, and make meaningful contributions.
+
+Feel free to explore my portfolio and resume for more about my work, and don’t hesitate to reach out if you’d like to connect or have any questions!
 
 Achievements
 =====
 ***
 - Graduated Magna Cum Laude from Oregon State University with a B.S. in Mechanical Engineering in June 2024
 - Accepted as an M.S. student into the graduate ME and robotics programs at OSU
-- Passed the Fundamentals of Engineering (FE) exam and recieved the official Engineering Intern certification from the state of Oregon
+- Passed the Fundamentals of Engineering (FE) exam and recieved the Engineering Intern certification from the Oregon State Board of Examiners
