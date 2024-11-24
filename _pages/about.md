@@ -15,7 +15,7 @@ I am currently pursuing a Master's in Mechanical Engineering at Oregon State Uni
 
 For my thests, I’m working with Dr. Richard Wirz on the use of robots in manufacturing plasma-resistant materials for advanced vacuum chambers. This research supports fusion power development, contributing to the future of clean energy.
 
-I have broad set of engineering skills, but I mostly love developing software for robot intelligence, finding creative ways to automate and solve complex challenges. I’m currently looking for a robotics internship for Summer 2025, where I can apply my skills, learn new things, and make meaningful contributions.
+I have a broad set of engineering skills, but I mostly love developing software for robot intelligence, finding creative ways to automate and solve complex challenges. I’m currently looking for a robotics internship for Summer 2025, where I can apply my skills, learn new things, and make meaningful contributions.
 
 Feel free to explore my portfolio and resume for more about my work, and don’t hesitate to reach out if you’d like to connect or have any questions!
 
